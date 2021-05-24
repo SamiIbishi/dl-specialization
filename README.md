@@ -35,7 +35,7 @@ This repo contains the practical assignments from the Courseras "Deep Learning S
   
 ### Course 5: [Sequence Models](https://github.com/SamiIbishi/dl-specialization/tree/master/Sequence%20Models)
 
-  - Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step]
+  - Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
   - Week 1 - PA 2 - Dinosaur Land -- Character-level Language Modeling
   - Week 1 - PA 3 - Jazz improvisation with LSTM
   - Week 2 - PA 1 - Word Vector Representation and Debiasing
